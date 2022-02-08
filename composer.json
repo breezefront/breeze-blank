@@ -7,6 +7,6 @@
     "require": {
         "swissup/theme-frontend-breeze-blank": "^0.11.0",
         "swissup/module-breeze": "^1.9.2",
-        "swissup/module-breeze-integrations": "^1.1.1"
+        "swissup/module-breeze-integrations": "^1.1.2"
     }
 }
