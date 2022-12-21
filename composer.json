@@ -2,11 +2,11 @@
     "name": "swissup/breeze-blank",
     "description": "Breeze Blank Theme",
     "type": "metapackage",
-    "version": "2.0.1",
+    "version": "2.0.2",
     "license": "OSL-3.0",
     "require": {
-        "swissup/theme-frontend-breeze-blank": "^2.0.1",
-        "swissup/module-breeze": "^2.0.0",
+        "swissup/theme-frontend-breeze-blank": "^2.0.2",
+        "swissup/module-breeze": "^2.0.1",
         "swissup/module-breeze-integrations": "^1.2.7"
     }
 }
