@@ -3,7 +3,7 @@
     "description": "Breeze Blank Theme",
     "type": "metapackage",
     "version": "2.8.5",
-    "license": "OSL-3.0",
+    "license": "MIT",
     "require": {
         "swissup/theme-frontend-breeze-blank": "^2.7.4",
         "swissup/module-breeze": "^2.15.0",
